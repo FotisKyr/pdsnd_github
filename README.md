@@ -1,8 +1,8 @@
 ### Date created
-24-Oct-2019
+24-Oct-2019 (Thursday)
 
 ### Project Title
-Bikeshare
+Bikeshare data analysis
 
 ### Description
 Bikeshare project enables the user to choose which city wishes to see data
