@@ -24,7 +24,7 @@ def get_filters():
     city = input("Would you like to see data for Chicago, New York City or Washington").lower()
     while city not in ['chicago','new york city','washington']:
         print("invalid city name, please choose between 'Chicago', 'New York City','Washington'")
-        city = input("Would you like to see data for Chicago, New York or Washington")
+        city = input("Would you like to see data for Chicago, New York or Washington").lower()
     print(city)
     # get user input for month (all, january, february, ... , june)
     month = input("Would you like to see data for 'January','February', 'March', 'April', 'May' or 'June'? Or enter 'all' if you don't wish to filter by month").lower()
