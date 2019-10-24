@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+24-Oct-2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare project enables the user to choose which city wishes to see data
+from. Options to filter by month and day also included. Finally, the user can seedescriptive statistics about 
+the bikeshare company.
 
 ### Files used
-Include the files used
+chicago.csv 
+new_york_city.csv
+washington.csv
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
