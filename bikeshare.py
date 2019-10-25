@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-desired_width=320
+desired_width=420
 pd.set_option('display.width', desired_width)
 np.set_printoptions(linewidth=desired_width)
 pd.set_option('display.max_columns',15)
